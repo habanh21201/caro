@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Caro</string>
+
+    <string name="homeTitle">Game Caro</string>
+    <string name="playButton">Play</string>
+    <string name="playerSetupTitle">Enter Your Name</string>
+    <string name="label1">Player1</string>
+    <string name="label2">Player2</string>
+    <string name="submitButton">Submit Name</string>
+    <string name="NameHint">Enter Your Name</string>
+    <string name="playAgainButton">Play Again</string>
+    <string name="homeButton">Home</string>
+</resources>
